@@ -27,8 +27,6 @@ Uma ferramenta que permite o gerenciamento de imagens e containers para ser usad
 
 - **Docker** Gerenciador de imagens e containers
 - **Grafana:** A aplicação responsável pelos dashboards das estatisticas dos containers.
-- **MongoDB:** Responsável por armazenar os dados históricos dos containers.
-- **Mongo Express:** Uma interface WEB para gerenciamento do MongoDB.
 - **NGINX:** O servidor WEB que irá cuidar do front-end.
 
 ---
