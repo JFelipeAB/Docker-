@@ -17,7 +17,7 @@ Uma ferramenta que permite o gerenciamento de imagens e containers para ser usad
 
 ### 📽 Tutorial de uso
 
-- [Video](https://youtu.be/lDSHsImJqhk)
+- [Video](https://www.youtube.com/watch?v=d4327LfsVkE)
 
 ---
 <br />
