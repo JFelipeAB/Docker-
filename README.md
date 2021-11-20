@@ -15,9 +15,9 @@ Uma ferramenta que permite o gerenciamento de imagens e containers para ser usad
 ---
 <br />
 
-### 📽 Tutorial de uso
+### 📽 Demonstração do Gerenciamneto de Imagens
 
-- [Video](https://www.youtube.com/watch?v=d4327LfsVkE)
+- [Youtube](https://www.youtube.com/watch?v=d4327LfsVkE)
 
 ---
 <br />
