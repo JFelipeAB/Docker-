@@ -1,0 +1,30 @@
+version: "3.8"
+
+services:
+  mongo:
+    image: mongo:5.0
+    container_name: dockertest_mongo
+    restart: always
+    ports:
+      - 27017:27017
+    volumes:
+      - ./docker/database/data:/data/db
+    env_file:
+      - ./api/.env
+  mongo_express:
+    image: mongo-express:0.54
+    container_name: dockertest_mongo_express
+    restart: always
+    depends_on:
+      - mongo
+    ports:
+      - 8081:8081
+    env_file:
+      - ./api/.env
+  nginx:
+    image: nginx:1.21-alpine
+    container_name: ba_nginx
+    ports:
+      - 80:80
+    volumes:
+      - ./web:/usr/share/nginx/html
