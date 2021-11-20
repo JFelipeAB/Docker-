@@ -17,7 +17,7 @@ Uma ferramenta que permite o gerenciamento de imagens e containers para ser usad
 
 ### 📽 Tutorial de uso
 
-- [Video](www.youtube.com)
+- [Video](https://cefsaedu-my.sharepoint.com/:v:/g/personal/082160032_ftt_cefsa_edu_br/EYl1UV1G4VlOmn8xWnf84z0BLOAgZFeaTiglaUz-GosnJQ)
 
 ---
 <br />
