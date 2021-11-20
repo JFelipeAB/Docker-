@@ -25,7 +25,7 @@ Uma ferramenta que permite o gerenciamento de imagens e containers para ser usad
 
 ### 🎞 Serviços inclusos no Projeto:
 
--**Docker** Gerenciador de imagens e containers
+- **Docker** Gerenciador de imagens e containers
 - **Grafana:** A aplicação responsável pelos dashboards das estatisticas dos containers.
 - **MongoDB:** Responsável por armazenar os dados históricos dos containers.
 - **Mongo Express:** Uma interface WEB para gerenciamento do MongoDB.
