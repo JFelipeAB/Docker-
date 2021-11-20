@@ -46,7 +46,7 @@ Uma ferramenta que permite o gerenciamento de imagens e containers para ser usad
 <br />
 
 
-### 🔎 Saiba mais e Referencias 
+### 🔎 Saiba mais e Referências 
 
 - [Documnetação Docker](https://pypi.org/project/docker/)
 - [Outros exemplos](https://youtu.be/JJ0TN-bARJY)
