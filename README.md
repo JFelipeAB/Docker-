@@ -9,7 +9,7 @@ Uma ferramenta que permite o gerenciamento de imagens e containers para ser usad
 
 - Docker Engine v19.03 (mínimo)
 - Docker Compose
-- Python v3.9 (não é garantido o funcionamento em versões anteriores)
+- Python v3.9 
 
 
 ---
